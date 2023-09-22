@@ -5,3 +5,6 @@ Learn how to sort an array using Power Automate. In this post I share a Power Pl
 Head over to the article for a full breakdown solution contents.
 
 Link: [https://www.sjlewis.com/2023/05/17/how-to-add-and-remove-accounts-from-multi-select-sharepoint-person-and-group-fields/](https://www.sjlewis.com/2023/05/17/how-to-add-and-remove-accounts-from-multi-select-sharepoint-person-and-group-fields/)
+
+## License
+https://github.com/sionjlewis/Power-Platform/blob/main/LICENSE
