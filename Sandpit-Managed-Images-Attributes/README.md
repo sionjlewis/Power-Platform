@@ -20,3 +20,6 @@ When importing the **Sandpit: Manage Image Attributes** solution into an environ
   > Connection to the Image library.
 - Sandpit-MIA-SPView
   > The GUID for the 'zzzCloudFlow' view.
+
+## License
+https://github.com/sionjlewis/Power-Platform/blob/main/LICENSE
