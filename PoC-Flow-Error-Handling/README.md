@@ -8,3 +8,6 @@ The **PoC Flow Error Handling** Power Platform Solution has been created to supp
 ![Link within an email warning of an error opens the Flow instance](https://www.sjlewis.com/wp-content/uploads/2022/01/09-Email-Link-Opens-Flow-Instance.png)
 
 Please head over to the [article](https://www.sjlewis.com/2022/01/29/a-guide-to-error-handling-in-power-automate-flow/) for a full breakdown of what the solution contains.
+
+## License
+https://github.com/sionjlewis/Power-Platform/blob/main/LICENSE
