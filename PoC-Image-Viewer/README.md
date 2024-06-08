@@ -12,6 +12,8 @@ I will admit that I built this solution several years back. However, it does dem
 
 The point here is less about the implementation and more about how we can make our solutions more manageable to read and coexist.
 
+![Enhanced-PowerApps-Webpart](https://github.com/sionjlewis/Power-Platform/blob/main/PoC-Image-Viewer/Assets/PoC-Image-Viewer-And-Enhanced-PowerApps-Webpart.PNG)
+
 ## Set-up
 
 I have not included the scripts to recreate the document library. However, you can use the same library as the [Enhancing EXIF Data Handling in SharePoint Online: A Solution Guide](https://www.sjlewis.com/2023/09/22/enhancing-exif-data-handling-in-sharepoint-online-a-solution-guide/) article. For more details, visit [www.sjlewis.com](https://www.sjlewis.com/2024/06/08/poc-image-viewer/).
