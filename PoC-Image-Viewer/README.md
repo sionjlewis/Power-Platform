@@ -14,7 +14,7 @@ The point here is less about the implementation and more about how we can make o
 
 ## Set-up
 
-I have not included the scripts to recreate the document library. However, you can use the same library as the **Enhancing EXIF Data Handling in SharePoint Online: A Solution Guide** article. For more details, visit [www.sjlewis.com](https://www.sjlewis.com/2023/09/22/enhancing-exif-data-handling-in-sharepoint-online-a-solution-guide/).
+I have not included the scripts to recreate the document library. However, you can use the same library as the [Enhancing EXIF Data Handling in SharePoint Online: A Solution Guide](https://www.sjlewis.com/2023/09/22/enhancing-exif-data-handling-in-sharepoint-online-a-solution-guide/) article. For more details, visit [www.sjlewis.com](https://www.sjlewis.com/2024/06/08/poc-image-viewer/).
 
 ## License
 
