@@ -22,4 +22,5 @@ When importing the **Sandpit: Manage Image Attributes** solution into an environ
   > The GUID for the 'zzzCloudFlow' view.
 
 ## License
+
 https://github.com/sionjlewis/Power-Platform/blob/main/LICENSE
