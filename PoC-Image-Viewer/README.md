@@ -8,7 +8,7 @@ I will admit that I built this solution several years back. However, it does dem
 2. I apply a connection reference and environment variables to steps within the Cloud Flow.
 3. The Canvas App calls a Flow to retrieve the last image created within a SharePoint library.
 
-![Solution-Overview](Assets\PoC-Image-Viewer-Solution-Overview.PNG)
+![Solution-Overview](https://github.com/sionjlewis/Power-Platform/blob/main/PoC-Image-Viewer/Assets/PoC-Image-Viewer-Solution-Overview.PNG)
 
 The point here is less about the implementation and more about how we can make our solutions more manageable to read and coexist.
 
