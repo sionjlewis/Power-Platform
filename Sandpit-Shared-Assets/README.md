@@ -23,6 +23,10 @@ Based on memory, the rest of the process has stayed the same.
 
 ![Import-Component-03](https://github.com/sionjlewis/Power-Platform/blob/main/Sandpit-Shared-Assets/Assets/Import-Component-03.png)
 
+## Supporting Article
+
+https://www.sjlewis.com/2024/06/10/canvas-apps-get-more-component-has-moved/
+
 ## License
 
 https://github.com/sionjlewis/Power-Platform/blob/main/LICENSE
