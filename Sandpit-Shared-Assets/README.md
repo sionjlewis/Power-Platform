@@ -5,7 +5,7 @@ The sandpit consists of two solutions:
 1. **Sandpit: Shared Assets** - contains the shared Component Library.
 2. **Sandpit: Canvas App** - contains a Canvas app to test the process of sharing a Component Library within an environment.
 
-![Sandpit-Canvas-App](https://github.com/sionjlewis/Power-Platform/blob/main/Sandpit-Shared-Assets/Assets/Import-Component-04.png)
+![Sandpit-Canvas-App](https://github.com/sionjlewis/Power-Platform/blob/main/Sandpit-Shared-Assets/Assets/Sandpit-Canvas-App.png)
 
 ## Background
 
