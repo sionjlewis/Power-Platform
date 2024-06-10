@@ -1,6 +1,6 @@
 # Sandpit: Shared Assets
 
-The sandpit consists of two solutions:
+The sandpit consists of two solutions that demonstrate how to reuse components in a Canvas App:
 
 1. **Sandpit: Shared Assets** - contains the shared Component Library.
 2. **Sandpit: Canvas App** - contains a Canvas app to test the process of sharing a Component Library within an environment.
@@ -9,7 +9,7 @@ The sandpit consists of two solutions:
 
 ## Background
 
-A couple of months had passed since I last developed a Canvas App and Components, and I was having trouble adding custom components. All because Microsoft had updated the UI without their annoying prompts or tips.
+A few months had passed since I last developed a Canvas App and Components, and I had trouble adding custom components. All because Microsoft had updated the UI without their annoying prompts or tips.
 
 ## Solution
 
